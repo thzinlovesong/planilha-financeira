@@ -1,4 +1,4 @@
-💰 Planilha Financeira
+
 Sistema completo de gestão financeira pessoal com tema escuro, projeções de gastos e controle de transações reais.
 
 Status: em desenvolvimento
